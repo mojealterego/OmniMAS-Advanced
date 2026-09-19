@@ -1,3 +1,13 @@
+<div align="center">
+
+<img src="./assets/social-preview.svg" alt="OMNIMAS ADVANCED — project visual" width="100%">
+
+## MOJEALTEREGO · PROJECT PROFILE
+
+</div>
+
+---
+
 # OmniMAS Advanced
 
 Zaawansowany agent automatyzacji Android oparty o lokalny model LLM, Android AccessibilityService i pętlę Planner → Grounding → Decision → Execution → Validation.
