@@ -107,7 +107,7 @@ class OmniAccessibilityService : AccessibilityService() {
                     }
                 }
 
-                if (!Instance.awaitingConfirmation?.let { true } ?: false) {
+                if (Instance.awaitingConfirmation == null) {
                     Instance.lastStatus = "MISJA ZAKOŃCZONA / WYMAGA WERYFIKACJI"
                 }
             } catch (error: CancellationException) {

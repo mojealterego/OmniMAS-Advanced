@@ -8,6 +8,15 @@
 
 ---
 
+<!-- MOJEALTEREGO:PROJECT-STATUS:START -->
+> [!IMPORTANT]
+> **MojeAlterego project status:** `PROTOTYPE`  
+> **Domain:** Android / AI / Agents  
+> **Verification:** Core Android automation architecture is implemented; production hardening and device-level verification remain incomplete.  
+> **Status policy:** [MojeAlterego project status model](https://github.com/mojealterego/mojealterego/blob/main/docs/PROJECT-STATUS.md)
+<!-- MOJEALTEREGO:PROJECT-STATUS:END -->
+
+
 # OmniMAS Advanced
 
 Zaawansowany agent automatyzacji Android oparty o lokalny model LLM, Android AccessibilityService i pętlę Planner → Grounding → Decision → Execution → Validation.
